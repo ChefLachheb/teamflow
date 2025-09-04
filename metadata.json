@@ -1,0 +1,5 @@
+{
+  "name": "TeamFlow: Gestionnaire de Temps de Projet",
+  "description": "Une application collaborative de gestion du temps conçue pour les projets d'équipe. Elle aide les équipes à organiser les tâches, à suivre les échéances, à surveiller les progrès et à communiquer efficacement pour améliorer la productivité.",
+  "requestFramePermissions": []
+}
